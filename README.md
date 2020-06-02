@@ -7,6 +7,3 @@ Send a spoofed email and receive the IP address of the user who opened it
 3. Upload all .PHP files to your webserver including the includes folder
 4. Change the database credentials to your own in the config file located at: includes/config.php
 5. Open your website and try it out.
-
-## Note:
-This is for educational and learning purposes only! You may not use this for illegal purposes! I'am not responsible for the actions you make using this!
