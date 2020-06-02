@@ -16,3 +16,4 @@ $headers = "From: " . $emailfrom . "\r\n" .
 mail($to, $subject, $txt, $headers);
 
 header('Location: index.php');
+die;
