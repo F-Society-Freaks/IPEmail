@@ -5,3 +5,4 @@ $sql = "DELETE FROM `clicks`";
 mysqli_query($conn, $sql);
 
 header('Location: index.php');
+die;
